@@ -1,0 +1,9 @@
+$width: 300px;
+$height: 300px;
+$color: pink;
+
+#div1{
+	width: $width;
+	height: $height;
+	background-color: $color;
+}
